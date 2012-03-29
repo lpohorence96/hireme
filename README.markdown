@@ -18,5 +18,5 @@ So, you want a job in bleeding-edge machine-to-machine technologies?  Let's see 
 }
 
 
-https://api.m2m.io/1/hireme
+http://api.m2m.io/1/hireme
 ```
