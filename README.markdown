@@ -1,12 +1,12 @@
 ### hireme
 
-So, you want a job in bleeding-edge machine-to-machine technologies?  Let's see if you have what it takes to hang with the console-cowboys in the cloud.
+So, you want a job in bleeding-edge machine-to-machine technologies?  Let's see if you have what it takes to ridde with the cloud console-cowboys?
 
 1. Read up on us: [2lemetry.com](http://2lemetry.com), [cassandra.io](http://cassandra.io). *Sidenote*: You should probably know what Skynet is.
 
 1. **fork** this repository. Show us you have *git* skillzez.
 
-1. `cd` into the `resumes` folder, add a resume in the format of your choice. MS Word docs will be **ignored**.
+1. `cd` into the `resumes` folder (or create it), add a resume in the format of your choice. MS Word docs will be **ignored**.
 
 1. Submit a *pull* request with your changes. 
 
